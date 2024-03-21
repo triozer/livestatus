@@ -1,4 +1,5 @@
 {
+  "name": "@triozer/livestatus",
   "scripts": {
     "start": "vercel dev",
     "deploy": "vercel"
